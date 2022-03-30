@@ -241,3 +241,9 @@ li {
 #album p {
   padding-left: 0px;
 }
+
+#album img {
+  aspect-ratio: 4/3;
+  object-fit: cover;
+  border-radius: 20px;
+}
